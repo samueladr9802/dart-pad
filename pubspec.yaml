@@ -6,6 +6,7 @@ environment:
   sdk: '>=2.2.0 <3.0.0'
 
 dependencies:
+  flip_card: ^0.4.4
   codemirror: ^0.5.0
   # TODO(jcollins-g): return to haikunator pub package after it is
   # published with https://github.com/Atrox/haikunatordart/pull/1
